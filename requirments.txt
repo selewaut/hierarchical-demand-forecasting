@@ -1,0 +1,5 @@
+cookiecutter
+pandas
+numpy
+scikit-learn
+tsfresh
